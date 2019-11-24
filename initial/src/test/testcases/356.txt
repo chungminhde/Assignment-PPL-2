@@ -1,0 +1,11 @@
+int main()
+        {
+            float arr[100];
+            arr[0] = 100.1;
+            foo(2)[10];
+            arr[1] = 200.2;
+            if(!check)
+                printf("successful");
+            return;
+        }
+                    

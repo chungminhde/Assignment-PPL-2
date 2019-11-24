@@ -1,0 +1,7 @@
+int main() {
+            if(a>b) 
+                printf(a>b);
+            else
+                a=b;
+        }
+                    

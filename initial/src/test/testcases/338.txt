@@ -1,0 +1,10 @@
+int main()
+        {
+            string f;
+            f="abcd";
+            if(f=="abcd")
+                printf("True");
+            else
+                printf("Flase");
+        }
+                    

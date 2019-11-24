@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('a'),[VarDecl('x',FloatType())],VoidType(),Block([If(BinaryOp('>',Id('x'),IntLiteral(0)),CallExpr(Id('printf'),[StringLiteral('ABCD')]),CallExpr(Id('printf'),[StringLiteral('GH')]))])),FuncDecl(Id('main'),[],IntType(),Block([Break(),Return()]))])

@@ -1,0 +1,11 @@
+int main()
+        {
+            if(a<b||a<c||c<d)
+            a = a + d;
+            else 
+            {
+                printf("K");
+            }
+           
+        }
+                    

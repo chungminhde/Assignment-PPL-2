@@ -1,0 +1,7 @@
+int main()
+        {
+            a = b || c && d;
+            int k;
+            k= a + max(a,b) - min(e,f)/100;
+        }
+                    

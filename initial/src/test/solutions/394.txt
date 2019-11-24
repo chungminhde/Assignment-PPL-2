@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('pid',IntType()),BinaryOp('=',Id('pid'),CallExpr(Id('fork'),[])),If(BinaryOp('>',Id('pid'),IntLiteral(0)),CallExpr(Id('sleep'),[IntLiteral(20)]))]))])

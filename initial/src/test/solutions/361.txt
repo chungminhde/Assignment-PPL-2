@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('k',IntType()),BinaryOp('=',Id('k'),BinaryOp('+',BinaryOp('+',IntLiteral(100),IntLiteral(20000000)),IntLiteral(999999999))),VarDecl('t',FloatType()),BinaryOp('=',Id('t'),BinaryOp('+',FloatLiteral(1.2),FloatLiteral(2.3)))]))])

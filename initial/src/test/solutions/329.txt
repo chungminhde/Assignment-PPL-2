@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([])),FuncDecl(Id('putInt'),[VarDecl('f',IntType())],VoidType(),Block([Return(IntLiteral(5))]))])

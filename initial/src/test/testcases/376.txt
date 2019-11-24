@@ -1,0 +1,23 @@
+float ran(){
+                float val;
+                val=Tofloat(rand())/RAND_MAX;
+                return val*0.5;
+            }
+            float ran_a_b(int a,int b){
+                float val;
+                val=a+Tofloat(rand())/RAND_MAX;
+                return val;
+            }
+            float pi(int N){
+                srand(time(NULL));
+                int i,j;
+                j=0;
+                float x,y;
+                for(i=0;i<N;i=i+1){
+                    x=ran();
+                    y=ran();
+                    if (x*x+y*y<=0.25) j=j+1;
+                }
+                return 4.0*j/N;
+            }
+                    

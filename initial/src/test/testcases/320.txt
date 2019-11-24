@@ -1,0 +1,7 @@
+int a,b,c,d,e;
+                    float x,y,z;
+                    int main()
+                    {
+
+                    }
+                    

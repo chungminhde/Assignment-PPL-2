@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([CallExpr(Id('main2'),[IntLiteral(5)]),CallExpr(Id('main3'),[FloatLiteral(5.5)])])),FuncDecl(Id('main2'),[],VoidType(),Block([])),FuncDecl(Id('main3'),[],StringType(),Block([])),FuncDecl(Id('main4'),[],BoolType(),Block([])),FuncDecl(Id('_'),[],FloatType(),Block([]))])

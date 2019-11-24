@@ -1,0 +1,12 @@
+void main(){
+            if(array[0] > array[1]) {
+                    largest = array[0];
+                    second  = array[1];
+                }else {
+                    largest = array[1];
+                    second  = array[0];
+                }
+
+                printf("Chuong trinh tim phan tu lon nhat va lon thu hai cua mang:\n\n");
+        }
+                    

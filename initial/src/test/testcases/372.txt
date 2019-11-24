@@ -1,0 +1,13 @@
+void something(){
+        d > days_in_month[m]; d = days_in_month[m];
+        if (is_leap(y)) {
+        	days_in_month[2] = 29;
+        }
+        else {
+        	days_in_month[2] = 28;
+        }
+        day = d;
+        month = m;
+        year = y;
+        }
+                    

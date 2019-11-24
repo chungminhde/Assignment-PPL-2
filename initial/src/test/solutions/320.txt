@@ -1,0 +1,1 @@
+Program([VarDecl('a',IntType()),VarDecl('b',IntType()),VarDecl('c',IntType()),VarDecl('d',IntType()),VarDecl('e',IntType()),VarDecl('x',FloatType()),VarDecl('y',FloatType()),VarDecl('z',FloatType()),FuncDecl(Id('main'),[],IntType(),Block([]))])

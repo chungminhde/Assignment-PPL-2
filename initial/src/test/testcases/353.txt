@@ -1,0 +1,17 @@
+void max(int a,int b)
+        {
+            if(a>b)
+            return b;
+            else 
+            return a;
+        }
+        int main()
+        {
+            max(6,9);
+            max(b-a,c);
+            if(a>b)
+                countinue;
+                else 
+                break;
+        }
+                    

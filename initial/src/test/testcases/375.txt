@@ -1,0 +1,12 @@
+boolean check_key(string key){
+                    if(a_in_b(key,TextDecode)==true){
+                        println("%s is in the word!",key);
+                    }
+                    else if(a_in_b(key,TextOriginal)==true){
+                                println("%s has been guessed before!",key);
+                            }
+                            else{
+                                    println("%s is NOT in the word!",key);
+                            }
+                }
+                    

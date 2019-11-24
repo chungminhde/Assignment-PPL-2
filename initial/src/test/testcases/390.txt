@@ -1,0 +1,10 @@
+int main(){
+            main2(5);
+            main3(5.5);
+        }
+            void main2(){}
+            string main3(){}
+            boolean main4(){}
+            float _(){}
+            
+                    

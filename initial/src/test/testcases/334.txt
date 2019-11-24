@@ -1,0 +1,8 @@
+
+                    void test(int k)
+        {
+            return;
+        }
+        int main() {
+            test(1000);
+        }

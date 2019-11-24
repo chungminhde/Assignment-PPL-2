@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('x',FloatType()),VarDecl('y',FloatType()),BinaryOp('=',Id('x'),FloatLiteral(3.14)),BinaryOp('=',IntLiteral(321),BinaryOp('-',BinaryOp('+',ArrayCell(Id('_'),IntLiteral(123)),ArrayCell(Id('_'),IntLiteral(324))),Id('_abcd'))),BinaryOp('==',ArrayCell(Id('array'),CallExpr(Id('test'),[IntLiteral(2)])),Id('b'))]))])

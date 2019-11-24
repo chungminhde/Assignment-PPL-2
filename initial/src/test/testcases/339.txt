@@ -1,0 +1,10 @@
+void abc(int k)
+        {
+
+        }
+        int main()
+        {
+            if(a<b)
+                abc(a);
+        }
+                    

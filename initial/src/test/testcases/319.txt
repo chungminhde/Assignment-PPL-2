@@ -1,0 +1,9 @@
+ 
+            int a;
+            int prime(int n){
+                int b;
+            }
+            int main(){
+                prime(5);
+            }
+        

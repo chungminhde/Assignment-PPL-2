@@ -1,0 +1,8 @@
+int main()
+        {
+            float x,y;
+            x=3.14;
+            321=_[123]+_[324]-_abcd;
+            array[test(2)] == b;
+        }
+        

@@ -1,0 +1,10 @@
+void main(){
+           int a,b,c;
+           a=b=c=1;
+           float f[6];
+           if (a==b) f[0]=1;
+           float f;
+           boolean check;
+           string t;
+        }   
+                    

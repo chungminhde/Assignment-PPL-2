@@ -1,0 +1,1 @@
+Program([VarDecl('a',IntType()),FuncDecl(Id('prime'),[VarDecl('n',IntType())],IntType(),Block([VarDecl('b',IntType())])),FuncDecl(Id('main'),[],IntType(),Block([CallExpr(Id('prime'),[IntLiteral(5)])]))])

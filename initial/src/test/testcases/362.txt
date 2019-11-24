@@ -1,0 +1,15 @@
+int main()
+        {
+            /* abcdef*/
+            printf("ABCDEF");
+            if(a>b)
+                a=b;
+            else
+            {
+                return;
+            }
+            {
+
+            }
+        }
+                    

@@ -1,0 +1,15 @@
+int main()
+        {
+            if(a<5 || b>100)
+            {
+                continue;
+            }
+            else
+            {
+                do{
+
+                }
+                while a;
+            }
+        }
+                    

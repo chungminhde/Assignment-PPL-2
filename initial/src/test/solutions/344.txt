@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([BinaryOp('=',Id('a'),BinaryOp('||',Id('b'),BinaryOp('&&',Id('c'),Id('d')))),VarDecl('k',IntType()),BinaryOp('=',Id('k'),BinaryOp('-',BinaryOp('+',Id('a'),CallExpr(Id('max'),[Id('a'),Id('b')])),BinaryOp('/',CallExpr(Id('min'),[Id('e'),Id('f')]),IntLiteral(100))))]))])

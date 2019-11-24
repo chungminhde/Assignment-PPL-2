@@ -1,0 +1,10 @@
+void main(){
+            printf("Mang du lieu dau vao: ");
+            display();
+            printline(50);
+            quickSort(0,MAX-1);
+            printf("Mang sau khi da sap xep: ");
+            display();
+            printline(50);
+        }
+                    

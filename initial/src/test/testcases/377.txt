@@ -1,0 +1,17 @@
+int main(){
+            if (a<b)
+                return a;
+            else 
+                return b;
+            for (x;y;z)
+                return a;
+            do
+            {
+                for (a;b;c)
+                    {   if(1>2)
+                        break;
+                        }
+            }
+            while a;
+        }
+                    

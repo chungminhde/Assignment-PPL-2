@@ -1,0 +1,10 @@
+boolean test;
+        int main()
+        {
+            int x;
+            if(test)
+                x=x+1;
+            float y;
+            y=y*15/20 + 1000;
+        }
+                    

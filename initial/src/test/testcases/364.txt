@@ -1,0 +1,24 @@
+float test(int a,float b){
+            int a,b;
+            c=10;
+            {
+                int d[5];
+            }
+            {
+                do 
+                    if (a=10) {
+                        if (a==2) {
+                            for (x;k;z) {
+                                for(a;b;c){
+                                    for (t;x;y) {
+                                        break;
+                                    }
+                                }
+                            }
+                        }
+                    } else break;
+                    a=a-1;
+                 while a>0;
+            }
+            }
+                    

@@ -1,0 +1,7 @@
+boolean test;
+            void main()
+            {
+                if(test)
+                    a=b+c;
+            }
+                    

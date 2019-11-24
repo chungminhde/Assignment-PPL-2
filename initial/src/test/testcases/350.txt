@@ -1,0 +1,13 @@
+void a(float x)
+        {
+            if(x>0)
+            printf("ABCD");
+            else 
+            printf("GH");
+        }
+        int main()
+        {
+            break;
+            return;
+        }
+                    

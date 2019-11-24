@@ -1,0 +1,10 @@
+int a,c,d;
+        void main(){
+            a=5;
+            b=4;
+            c=1;
+            float str;
+            str = " I CAN FLY";
+
+        }
+                    

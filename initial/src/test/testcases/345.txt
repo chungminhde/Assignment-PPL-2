@@ -1,0 +1,12 @@
+float a,b;
+        int x,y;
+        int main()
+        {
+            x=x+1;
+            y=x*y;
+            if(x<y)
+                x=true;
+            else 
+                y=true;
+        }
+                    

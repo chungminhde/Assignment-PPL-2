@@ -1,0 +1,13 @@
+int main()
+        {
+            int i;
+            for(i;i<n;i+1)
+                {
+                    printf("ABCD");
+                    foo(5);
+                }
+                {
+                    break;
+                }
+        }
+                    

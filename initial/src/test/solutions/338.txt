@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('f',StringType()),BinaryOp('=',Id('f'),StringLiteral('abcd')),If(BinaryOp('==',Id('f'),StringLiteral('abcd')),CallExpr(Id('printf'),[StringLiteral('True')]),CallExpr(Id('printf'),[StringLiteral('Flase')]))]))])

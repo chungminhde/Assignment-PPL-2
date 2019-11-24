@@ -1,0 +1,5 @@
+int main() {
+            int x,arr[100];
+            arr[x+3]=5;
+        }
+                    

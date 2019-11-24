@@ -1,0 +1,13 @@
+int main()
+        {
+            putInt(main);
+            {
+                int i;
+                int main;
+                main = f= i = 200;
+                putInt(i);
+                putInt(main);
+            }
+            putInt(main);
+        }
+                    

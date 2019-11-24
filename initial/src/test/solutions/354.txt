@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('i',IntType()),For(Id('i'),BinaryOp('<=',Id('i'),IntLiteral(5)),BinaryOp('=',Id('i'),BinaryOp('+',Id('i'),IntLiteral(1))),Block([])),Block([]),Block([])]))])

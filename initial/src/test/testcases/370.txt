@@ -1,0 +1,13 @@
+void test(int a, int b){
+            if (a<b)
+                print("a");
+            else 
+                print("b");
+        }
+            int main()
+            {
+                test(5,10);
+                continue;
+                return 0;
+            }
+                    

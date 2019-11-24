@@ -1,0 +1,5 @@
+int foo(int k) {k=k+1;}
+        int main() {
+            foo(5);
+        }
+                    

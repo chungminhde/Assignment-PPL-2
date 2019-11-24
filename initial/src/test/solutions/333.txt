@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('prime'),[VarDecl('n',IntType())],IntType(),Block([If(BinaryOp('<',Id('n'),IntLiteral(2)),Return(IntLiteral(1)))])),FuncDecl(Id('main'),[],IntType(),Block([]))])

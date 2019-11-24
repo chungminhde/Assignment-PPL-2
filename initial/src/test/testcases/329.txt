@@ -1,0 +1,7 @@
+int main(){
+        }
+        void putInt(int f)
+        {
+            return 5;
+        }
+                    

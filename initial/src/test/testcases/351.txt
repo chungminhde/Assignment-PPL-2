@@ -1,0 +1,12 @@
+int main()
+        {
+            // cho HCN co chieu dai a, chieu rong b
+            int a,b;
+            a=100;
+            b=500;
+            //chu vi hinh chu nhat
+            C=2*(a+b);
+            //dien tich hinh chu nhat
+            S=a*b;
+        }
+                    

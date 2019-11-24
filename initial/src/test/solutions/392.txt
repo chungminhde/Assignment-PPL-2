@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('maximum'),[VarDecl('a',FloatType()),VarDecl('b',FloatType()),VarDecl('c',FloatType())],FloatType(),Block([If(BinaryOp('>',Id('a'),Id('b')),Block([If(BinaryOp('>',Id('a'),Id('c')),Return(Id('a')),Return(Id('c')))]),Block([If(BinaryOp('>',Id('b'),Id('c')),Return(Id('b')),Return(Id('c')))]))]))])

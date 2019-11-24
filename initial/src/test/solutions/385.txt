@@ -1,0 +1,1 @@
+Program([VarDecl('a',IntType()),VarDecl('c',IntType()),VarDecl('d',IntType()),FuncDecl(Id('main'),[],VoidType(),Block([BinaryOp('=',Id('a'),IntLiteral(5)),BinaryOp('=',Id('b'),IntLiteral(4)),BinaryOp('=',Id('c'),IntLiteral(1)),VarDecl('str',FloatType()),BinaryOp('=',Id('str'),StringLiteral(' I CAN FLY'))]))])

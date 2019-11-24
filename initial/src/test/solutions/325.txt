@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([If(BinaryOp('>',Id('a'),Id('b')),CallExpr(Id('printf'),[BinaryOp('>',Id('a'),Id('b'))]),BinaryOp('=',Id('a'),Id('b')))]))])

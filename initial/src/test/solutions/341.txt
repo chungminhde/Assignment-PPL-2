@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('max'),[VarDecl('a',IntType()),VarDecl('b',IntType())],VoidType(),Block([If(BinaryOp('>',Id('a'),Id('b')),Return(Id('a')),Return(Id('b')))]))])

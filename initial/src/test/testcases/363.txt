@@ -1,0 +1,14 @@
+int main()
+        {
+            float i,j,k;
+            i=j=k= 1000.2;
+            system("pause");
+            int sum;
+            int i;
+            for(i;i<100;i=i+1)
+            {
+                sum=sum+i;
+            }
+            return sum;
+        }
+                    

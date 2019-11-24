@@ -1,0 +1,6 @@
+ 
+            int a;
+            int prime(int n){
+                int b;
+            }
+        

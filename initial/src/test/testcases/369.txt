@@ -1,0 +1,9 @@
+void main(){
+            if (a<b)
+                for(x;y;z)
+                    do{
+                        break;
+                    }
+                    while c != 0 ;
+        }
+                    

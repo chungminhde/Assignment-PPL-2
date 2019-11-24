@@ -1,0 +1,20 @@
+void prime(int n)
+        {
+            int i;
+            for(i;i<n;i=i+1)
+            {
+                if(n%i==0)
+
+                return 0;
+            }
+            return 1;
+        }
+        int main()
+        {
+            int k;
+            // In ra day so nguyen to be hon 100
+            for(k;k<=100;k=k+1)
+                if(prime(k)==1)
+                printf(k);
+        }
+                    

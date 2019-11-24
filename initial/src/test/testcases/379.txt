@@ -1,0 +1,8 @@
+int main(){
+        if (a)
+            if(b)
+                if(c)
+                    if(d)
+                        return a;
+                else return b;
+                    } 

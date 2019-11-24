@@ -1,0 +1,13 @@
+int main()
+        {
+            do{
+            int i;
+            for(i;i<n;i+1)
+            printf("Hello");
+            if(k!=0)
+            k=k*k;
+
+            }
+            while  a<(b*9/7)  ;
+        }
+                    
